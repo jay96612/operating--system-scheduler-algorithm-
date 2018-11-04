@@ -1,0 +1,9 @@
+Name: RR
+Q: 10
+NumofProc: 5
+ProcessName:    ArrivalTime:    CPUTime:
+P1              0                20
+P2              10               29
+P3              20               7
+P4              30               15
+P5              40               58
